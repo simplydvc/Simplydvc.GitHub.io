@@ -108,10 +108,10 @@ nav li a {
 }
 
 @keyframes slideShow {
-  0%   { background-image: url('images/img1.jpg'); }
+  0%   { background-image: url('images/img1.JPG'); }
   33%  { background-image: url('images/img2.jpg'); }
   66%  { background-image: url('images/img3.jpg'); }
-  100% { background-image: url('images/img1.jpg'); }
+  100% { background-image: url('images/img1.JPG'); }
 }
 }
 #hero {
