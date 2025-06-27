@@ -80,7 +80,7 @@ nav li a {
   z-index: 1;
   background-size: cover;
   background-position: center;
-  animation: slideShow 20s infinite;
+  animation: slideShow 30s infinite;
 }
 
 .hero-content {
