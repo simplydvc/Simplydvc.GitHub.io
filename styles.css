@@ -24,6 +24,17 @@ section {
 }
 
 /* Header */
+.main-header {
+  font-family: 'Bebas Neue', 'Impact', 'Arial Black', sans-serif; /* Tactical, bold font */
+  font-size: 64px;            /* Big size */
+  font-weight: 900;           /* Extra bold */
+  letter-spacing: 2px;        /* Spread out letters */
+  text-transform: uppercase;  /* ALL CAPS */
+  text-align: center;
+  margin-top: 50px;
+  color: #ffffff;
+  text-shadow: 2px 2px 5px rgba(0,0,0,0.7);  /* Cool shadow effect */
+}
 header {
   background: transparent;
   display: flex;
